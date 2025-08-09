@@ -1,3 +1,5 @@
+"use client";
+
 /*
 PersonalSite.tsx
 A single-file, Next.js-ready React component (TypeScript) that implements a sleek, minimalist personal website.
