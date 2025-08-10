@@ -1,5 +1,5 @@
-import PersonalSite from '@/components/PersonalSite';
+import About from '@/components/pages/About';
 
 export default function Home() {
-  return <PersonalSite />;
+  return <About />;
 }
